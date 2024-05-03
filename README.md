@@ -8,10 +8,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheui-yong&count_bg=%23A4EAF1&title_bg=%23DDE3ED&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   
   
-  ﹏﹏﹏﹏﹏﹏﹏
-  
-  <br/><br/>
-  
+  ﹏﹏﹏﹏﹏﹏﹏  
+
   <h3>💻 Tech Stack 💻</h3>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
