@@ -2,7 +2,6 @@
 
   <div align = "center">
   
-  <br/>
   <h2>yong hub🧑🏻‍💻</h2><br/>
   Hello, I'm Heui Yong!<br/><br/>
 
