@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <br>
 
+  <h3>🛠️ Tools 🛠️</h3>
+  <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
